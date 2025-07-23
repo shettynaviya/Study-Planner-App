@@ -1,1 +1,2 @@
-# Study-Planner-App
+# Study Planner App
+Instructions to run...
