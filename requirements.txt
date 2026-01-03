@@ -2,3 +2,4 @@ streamlit
 fpdf
 pandas
 python-dotenv
+plotly
