@@ -3,7 +3,10 @@
 A simple and efficient web-based study planner built using **Streamlit** and **Python**.  
 It helps students manage their tasks, get reminders, and stay on track with their study goals.
 
----
+🌐 Live Demo
+
+👉 Try the app here:
+https://shettynaviya-study-planner-app-main-hbnuxm.streamlit.app/
 
 ## 🚀 Features
 
